@@ -1,0 +1,24 @@
+{
+  "name": "node.js-dynamic-file-server",
+  "version": "1.0.0",
+  "description": "HTTP Protocol Node.js http and path Modules Dynamic Content Generation File System Operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pqnitish/Node.js-Dynamic-File-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pqnitish/Node.js-Dynamic-File-Server/issues"
+  },
+  "homepage": "https://github.com/pqnitish/Node.js-Dynamic-File-Server#readme",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
